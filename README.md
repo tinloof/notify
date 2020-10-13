@@ -5,7 +5,7 @@ Notification component and functions for React.
 <img alt="demo" src="https://res.cloudinary.com/https-tinloof-com/image/upload/v1602609796/blog/how-to-create-react-notifications-with-0-dependencies/6_d3s7q4.gif">
 
 
-[Demo]()
+[Demo](https://codesandbox.io/s/tinloof-notify-hd8pt?file=/src/App.js)
 
 ### Basic usage
 Using the `Notification` component:
